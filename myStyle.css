@@ -27,7 +27,7 @@
         text-decoration: none;
         text-align: center;
         display: block;
-        padding: 20px;
+        padding: 30px;
         }
         
 #nav_menu ul ul li{
@@ -122,6 +122,8 @@ nav{
     text-align: center;
 }
 .title{
-    text-align: center;
-    
+    text-align: center; 
+}
+.aligned{
+    margin-left: 100px;
 }
