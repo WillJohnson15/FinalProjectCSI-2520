@@ -11,12 +11,12 @@
         float: left;
         width: 390px;
         background-color: blue;
-        border: 2px solid White;
+        border: 2px solid black;
             
 }
 #nav_menu ul li a{
         font-size: 30px;
-        color: white;
+        color: black;
         text-decoration: none;
         text-align: center;
         display: block;
