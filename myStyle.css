@@ -53,6 +53,8 @@ h1{
 h2{
     margin: 40px;
     font-size: 33px;
+    text-align: center;
+    
     }
         
 .center{
@@ -103,4 +105,14 @@ nav{
     } 
 .top5games{
     text-align: center;
+}
+h4{
+border: 2px solid black;
+    width: 600px;
+    margin: 200px;
+    font-size: 30px;
+    padding: 15px;
+    background: blue;
+    text-align: center;
+    color: white;
 }
