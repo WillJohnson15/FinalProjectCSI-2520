@@ -16,7 +16,7 @@
 
 #nav_menu ul li{
         float: left;
-        width: 690px;
+        width: 400px;
         background-color: blue;
         border: 2px solid black;
         }
@@ -112,7 +112,7 @@ nav{
     }
         
 .set2{
-    margin-right: 240px;
+    margin-right: 180px;
     }
         
 .rightbox{
