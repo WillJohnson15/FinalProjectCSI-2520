@@ -1,0 +1,36 @@
+#nav_menu ul{
+        list-style-type: none;
+        position: relative;
+}
+#nav_menu ul ul{
+        position: absolute;
+        top:100%;
+        display: none;
+}
+#nav_menu ul li{
+        float: left;
+        width: 390px;
+        background-color: blue;
+        border: 2px solid White;
+            
+}
+#nav_menu ul li a{
+        font-size: 30px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        display: block;
+        padding: 30px;
+}
+        
+#nav_menu ul ul li{
+        float: none;
+        }
+#nav_menu ul li:hover>ul{
+        display: block;
+        }
+#nav_menu>ul::after{
+        content: "";
+        display: block;
+        clear: both;
+}
