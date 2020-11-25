@@ -54,7 +54,14 @@ h2{
     margin: 40px;
     font-size: 33px;
     text-align: center;
-    background-color: whitesmoke;
+    background: linear-gradient(to right, whitesmoke, whitesmoke);
+    }
+h3{
+    margin: 40px;
+    font-size: 33px;
+    text-align: center;
+    font-size: 50px;
+    font-style: bold;
     }
         
 .center{
@@ -89,8 +96,12 @@ address{
     }
         
 img{
-    margin-right: 400px;
-    }
+margin-right: 400px;
+border-radius: 15px;
+background: paper.jpg);
+background-position: center;
+padding: 20px;
+}
         
 nav{
     margin-left: 300px;
