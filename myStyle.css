@@ -16,13 +16,13 @@
 
 #nav_menu ul li{
         float: left;
-        width: 390px;
+        width: 690px;
         background-color: blue;
         border: 2px solid black;
         }
 
 #nav_menu ul li a{
-        font-size: 30px;
+        font-size: 40px;
         color: black;
         text-decoration: none;
         text-align: center;
@@ -42,7 +42,11 @@
         content: "";
         display: block;
         clear: both;
-        }  
+        } 
+}
+div #nav ul{
+    display: inline-block;
+}
 /*nav var style ends here*/
 h1{
     text-align: center;
@@ -116,4 +120,8 @@ nav{
     } 
 .top5games{
     text-align: center;
+}
+.title{
+    text-align: center;
+    
 }
