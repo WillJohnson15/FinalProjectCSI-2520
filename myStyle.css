@@ -137,4 +137,5 @@ address{
 .textbox{
     width: 50%;
     height: 150px;
+    box-sizing: border-box;
 }
