@@ -1,6 +1,4 @@
-var form;
-
-form = document.getElementById('name-form');
+var form = document.getElementById('name-form');
 
 form.onsubmit = function(e) {
     e.preventDefault();
