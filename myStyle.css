@@ -134,3 +134,8 @@ td{
 address{
     font-size: 30px;
 }
+textarea{
+    width: 600px;
+    height: 100px;
+    box-sizing: none;
+}
