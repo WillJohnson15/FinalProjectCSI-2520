@@ -134,8 +134,7 @@ td{
 address{
     font-size: 30px;
 }
-.textbox{
-    width: 50%;
+textarea{
+    width: 600px;
     height: 150px;
-    box-sizing: border-box;
 }
