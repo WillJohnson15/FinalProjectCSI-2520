@@ -8,5 +8,5 @@ function getInfo() {
 function newsLetter() {
     var email = document.getElementById("Email").value;
     
-    alert("Thank you for signing up for our newsletter! Please check " + email + " for confirmation");
+    alert("Thank you for signing up for our newsletter! Please check " + email + " for confirmation.");
 }
