@@ -130,8 +130,11 @@ nav{
 td{
     column-width: 200px;
     text-align: center;
-    colum
 }
 address{
     font-size: 30px;
+}
+.textbox{
+    width: 50%;
+    height: 150px;
 }
