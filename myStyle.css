@@ -5,8 +5,7 @@
 /*Here is the style for the nav bar*/
 
 #nav_menu{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 300px;
 }
 
 #nav_menu ul{
@@ -64,7 +63,6 @@ h2{
     margin: 40px;
     font-size: 33px;
     text-align: center;
-    background: linear-gradient(to right, whitesmoke, whitesmoke);
     }
 h3{
     margin: 40px;
