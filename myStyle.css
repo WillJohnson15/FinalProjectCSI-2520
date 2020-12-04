@@ -1,8 +1,14 @@
 *{
-        background: linear-gradient(to right,white,lightblue);
+    background: linear-gradient(to right,white,lightblue);
         }
 
 /*Here is the style for the nav bar*/
+
+#nav_menu{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #nav_menu ul{
         list-style-type: none;
         position: relative;
@@ -107,12 +113,8 @@ background-position: center;
 padding: 20px;
 }
         
-nav{
-    margin-left: 300px;
-    }
-        
 .set2{
-    margin-right: 180px;
+    margin-right: 180px;3
     }
         
 .rightbox{
