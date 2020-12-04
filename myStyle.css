@@ -1,5 +1,5 @@
 body{
-    background: lightblue;
+    background-color: lightblue;
     margin-left: 100px;
     margin-right: 100px;
         }
@@ -7,7 +7,7 @@ body{
 /*Here is the style for the nav bar*/
 
 #nav_menu{
-    margin-left: 300px;
+    margin-left: 13%;
 }
 
 #nav_menu ul{
@@ -105,15 +105,18 @@ address{
     }
         
 img{
-margin-right: 400px;
-border-radius: 15px;
-background: paper.jpg);
-background-position: center;
-padding: 20px;
+    margin-right: 300px;
+    border-radius: 15px;
+    background-position: center;
+    padding: 20px;
+    }
+
+.logo{
+    margin: 10px;
 }
         
 .set2{
-    margin-right: 180px;3
+    margin-right: 20px;
     }
         
 .rightbox{
