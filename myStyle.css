@@ -146,8 +146,19 @@ textarea{
     font-size: 16px;
 }
 .centering{
-    margin-left: 380px;
+    margin-left: 250px;
 }
 main{
     background-color: lightblue;
+}
+.leftalign{
+    margin-top: 75px;
+    margin-left: 20px;
+}
+.imgalign{
+    margin-right: 130px;
+}
+.formalign>p{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
